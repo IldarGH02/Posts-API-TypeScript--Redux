@@ -1,4 +1,4 @@
-# News-portal
+# Posts
 
 ## Tech:
 - ReactJS
